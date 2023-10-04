@@ -1,0 +1,75 @@
+.red-border {
+    border: 0.1rem solid red;
+}
+
+.top-main {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 2rem;
+    
+}
+#left{
+    width: 70%;
+    height: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem; 
+}
+#center{
+    width: 70%;
+    height: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem; 
+}
+#right{
+    width: 70%;
+    height: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem; 
+}
+
+.photo {
+    width: 5rem;
+    height: 5rem;
+
+}
+.photo-and-name{
+    display: grid;
+    grid-template-columns: 5rem 10rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.name {
+    width: 7rem;
+    height: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+.button{
+    width: 60%;
+    height: 2rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem; 
+}
+
+.main2 {
+        margin-left :5rem ;
+        margin-right :5rem ;
+
+}
+
+.main{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left :5rem ;
+    margin-right :5rem ;
+}
